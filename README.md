@@ -1,5 +1,5 @@
 # market-risk-management
-Market Risk Analysis and Regulatory Capital, NYU Tandon 12/2016
+Market Risk Analysis and Regulatory Capital, NYU Tandon 12/2016( 12/2017 recap)
 
 • Used regression and financial models (e.g. Black-Scholes model) to estimate sensitivity (e.g., beta, key rate duration and Greeks) to key risk factors for a portfolio of selected stocks, bonds, derivatives and commodity and then calculated analytical VaR
 
